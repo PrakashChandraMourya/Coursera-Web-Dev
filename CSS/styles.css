@@ -67,3 +67,16 @@ body {
   bottom: 0px;
   z-index: 1;
 }
+
+.reserveTable {
+  background-color: #512da8;
+  color: white;
+}
+
+.tableBtn {
+  color: #ddd;
+}
+
+.lowerTable {
+  background-color: #d1c4e9;
+}
